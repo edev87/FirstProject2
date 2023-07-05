@@ -1,0 +1,19 @@
+h1 {
+  color: purple
+}
+
+.green-text {
+  color: green;
+}
+
+.red-text {
+  color: red;
+}
+
+.logoImage {
+  max-width: 300px;
+}
+
+.hero-image {
+  max-width: 200px
+}

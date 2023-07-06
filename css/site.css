@@ -28,3 +28,12 @@ h1 {
   -webkit-text-stroke-color: yellow;
   text-shadow: 2px 1px #292929;
 }
+
+div>img .details-pic {
+  max-width: 300px;
+}
+
+div.card {
+  background-color: cadetblue;
+
+}

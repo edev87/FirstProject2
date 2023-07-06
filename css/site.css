@@ -37,3 +37,15 @@ div.card {
   background-color: cadetblue;
 
 }
+
+body#page4 {
+  background-color: grey;
+}
+
+.special-link {
+  text-decoration: none;
+}
+
+.special-link:hover {
+  color: red;
+}

@@ -1,5 +1,5 @@
 h1 {
-  color: purple
+  color: white;
 }
 
 .green-text {
@@ -19,7 +19,9 @@ h1 {
 }
 
 #hero-text {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Londrina Shadow', cursive; */
+  font-family: 'Roboto', sans-serif;
   font-size: 4em;
   margin: 0;
   text-transform: uppercase;
@@ -48,4 +50,9 @@ body#page4 {
 
 .special-link:hover {
   color: red;
+}
+
+.resize {
+  max-width: 300px;
+
 }
